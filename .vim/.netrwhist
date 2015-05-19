@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/neikila'
+let g:netrw_dirhist_2='/home/neikila/Study'
+let g:netrw_dirhist_3='/home/neikila/Study/fedoruk'
+let g:netrw_dirhist_4='/home/neikila/Study/fedoruk/6_lab'
+let g:netrw_dirhist_5='/home/neikila/Study/fedoruk/6_lab/AfterLab'
+let g:netrw_dirhist_6='/home/neikila/Study/fedoruk/6_lab'
+let g:netrw_dirhist_7='/home/neikila/Study/fedoruk/6_lab/AfterLab'
